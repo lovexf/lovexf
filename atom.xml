@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>小飞</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2020-09-23T08:26:39.944Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>xiaofei</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello 小飞</title>
+    <link href="http://example.com/2020/09/22/hello-world/"/>
+    <id>http://example.com/2020/09/22/hello-world/</id>
+    <published>2020-09-22T11:09:54.600Z</published>
+    <updated>2020-09-23T08:26:39.944Z</updated>
+    
+    <content type="html"><![CDATA[<p>欢迎来到我的博客！</p><h2 id="我建起博客的起源"><a href="#我建起博客的起源" class="headerlink" title="我建起博客的起源"></a>我建起博客的起源</h2><h3 id="记录我的学习过程"><a href="#记录我的学习过程" class="headerlink" title="记录我的学习过程"></a>记录我的学习过程</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ 希望自己能在以后不输给别人</span><br></pre></td></tr></table></figure><h3 id="保存自己的学习结果"><a href="#保存自己的学习结果" class="headerlink" title="保存自己的学习结果"></a>保存自己的学习结果</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ 一些自己写过的结果</span><br></pre></td></tr></table></figure><h3 id="不忘初心"><a href="#不忘初心" class="headerlink" title="不忘初心"></a>不忘初心</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ 用此博客来提醒自己</span><br></pre></td></tr></table></figure><h3 id="不气馁"><a href="#不气馁" class="headerlink" title="不气馁"></a>不气馁</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ 成功在前方</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;欢迎来到我的博客！&lt;/p&gt;
+&lt;h2 id=&quot;我建起博客的起源&quot;&gt;&lt;a href=&quot;#我建起博客的起源&quot; class=&quot;headerlink&quot; title=&quot;我建起博客的起源&quot;&gt;&lt;/a&gt;我建起博客的起源&lt;/h2&gt;&lt;h3 id=&quot;记录我的学习过程&quot;&gt;&lt;a href=&quot;#记录我的</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
